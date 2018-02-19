@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SoccerApp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="calendar">Calendar</string>
+    <string name="standings">Standings</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="leagueName">3e Amateurs Voetbal VI B</string>
+    <string name="played">P</string>
+    <string name="won">W</string>
+    <string name="lose">L</string>
+    <string name="draw">D</string>
+    <string name="points">PTS</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Name</string>
+    <string name="email">E-mail</string>
+    <string name="registerHere">Register here</string>
+    <string name="gameweek">Gameweek 1</string>
+    <string name="errorLogin">Username and/or password is incorrect</string>
+    <string name="welcome">Welcome to SoccerApp where you can see all information about the mayor football competitions of Europe</string>
+    <string name="chooseCountry">Choose a country where you want to see all information</string>
+    <string name="belgium">Belgium</string>
+    <string name="forecast">Weather forecast</string>
+    <string name="logout">Logout</string>
+</resources>
