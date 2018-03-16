@@ -30,8 +30,7 @@ public class CalendarActivity extends BaseActivity {
     private Cursor mCursor;
     private JSONObject mData;
     private JSONArray weather;
-    private TextView mDescription;
-    private TextView mTemp;
+    private TextView mDescription, mTemp;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

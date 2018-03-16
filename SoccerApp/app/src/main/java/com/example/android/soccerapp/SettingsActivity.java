@@ -17,19 +17,8 @@ import com.example.android.soccerapp.data.UserContract;
  */
 
 public class SettingsActivity extends BaseActivity {
-    private EditText mFirstname;
-    private EditText mLastname;
-    private EditText mEmail;
-    private EditText mUsername;
-    private EditText mPassword;
-    private EditText mPhone;
-    private EditText mStreet;
-    private EditText mPostalcode;
-    private EditText mCity;
-    private EditText mCountry;
-    private EditText mOldPassword;
+    private EditText mFirstname, mLastname, mEmail, mPhone, mStreet, mPostalcode, mCity, mCountry, mOldPassword, mNewPassword;
     private TextView mErrorPassword;
-    private EditText mNewPassword;
 
     private String username;
     private String password;
@@ -46,7 +35,6 @@ public class SettingsActivity extends BaseActivity {
         mFirstname = (EditText) findViewById(R.id.etFirstname);
         mLastname = (EditText) findViewById(R.id.etLastname);
         mEmail = (EditText) findViewById(R.id.etEmail);
-        mPassword = (EditText) findViewById(R.id.etNewPassword);
         mPhone = (EditText) findViewById(R.id.etPhone);
         mStreet = (EditText) findViewById(R.id.etStreet);
         mPostalcode = (EditText) findViewById(R.id.etPostalCode);
