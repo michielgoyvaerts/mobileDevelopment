@@ -7,6 +7,9 @@
         <!--android:id="@+id/action_standings"-->
         <!--android:title="@string/standings"></item>-->
     <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings"></item>
+    <item
         android:id="@+id/action_logout"
         android:title="@string/logout"></item>
 </menu>

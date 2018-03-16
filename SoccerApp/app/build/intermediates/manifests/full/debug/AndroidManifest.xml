@@ -41,6 +41,8 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".WelcomeActivity" />
         </activity>
+        <activity android:name="com.example.android.soccerapp.SettingsActivity" >
+        </activity>
         <activity android:name="com.example.android.soccerapp.StandingsActivity" >
             android:parentActivityName=".WelcomeActivity">
             <meta-data

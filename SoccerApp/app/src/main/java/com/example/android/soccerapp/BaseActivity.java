@@ -32,6 +32,10 @@ public class BaseActivity extends AppCompatActivity {
             Intent calendarIntent = new Intent(getApplicationContext(), CalendarActivity.class);
             startActivity(calendarIntent);
         }
+        if (id==R.id.action_settings){
+            Intent settingsIntent = new Intent(getApplicationContext(), SettingsActivity.class);
+            startActivity(settingsIntent);
+        }
 //        if(id==R.id.action_standings){
 //            Intent standingsIntent = new Intent(getApplicationContext(), StandingsActivity.class);
 //            startActivity(standingsIntent);

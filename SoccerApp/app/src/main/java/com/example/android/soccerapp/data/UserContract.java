@@ -15,5 +15,10 @@ public class UserContract {
         public static final String COLUMN_EMAIL = "email";
         public static final String COLUMN_USERNAME = "username";
         public static final String COLUMN_PASSWORD = "password";
+        public static final String COLUMN_PHONE = "phone";
+        public static final String COLUMN_STREET = "street";
+        public static final String COLUMN_POSTALCODE = "postalcode";
+        public static final String COLUMN_CITY = "city";
+        public static final String COLUMN_COUNTRY = "country";
     }
 }

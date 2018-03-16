@@ -61,11 +61,35 @@ public class MainActivity extends AppCompatActivity {
         if(mCursor.getCount()>0){
             Intent intent = new Intent(getApplicationContext(), WelcomeActivity.class);
             while (mCursor.moveToNext()){
-                String name = mCursor.getString(1) + " " + mCursor.getString(2);
+                String firstname = mCursor.getString(1);
+                String lastname = mCursor.getString(2);
+                String name = firstname + " " + lastname;
+                String email = mCursor.getString(3);
+                username = mCursor.getString(4);
+                password = mCursor.getString(5);
+                String phone = mCursor.getString(6);
+                String street = mCursor.getString(7);
+                String postalcode = mCursor.getString(8);
+                String city = mCursor.getString(9);
+                String country = mCursor.getString(10);
+
+                //String name = mCursor.getString(1) + " " + mCursor.getString(2);
                 intent.putExtra(Intent.EXTRA_TEXT, name);
                 SharedPreferences shared = getSharedPreferences("user", MODE_PRIVATE);
                 SharedPreferences.Editor editor = shared.edit();
-                editor.putString("username", name);
+                editor.putString("firstname", firstname);
+                editor.putString("lastname", lastname);
+                editor.putString("name", name);
+                editor.putString("email", email);
+                editor.putString("username", username);
+                editor.putString("password", password);
+                editor.putString("phone", phone);
+                editor.putString("street", street);
+                editor.putString("postalcode", postalcode);
+                editor.putString("city", city);
+                editor.putString("country", country);
+
+
                 editor.commit();
                 startActivity(intent);
                 finish();

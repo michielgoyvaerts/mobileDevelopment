@@ -37,7 +37,6 @@
             android:text="@string/chooseCountry"
             android:textColor="#FFF"
             android:textSize="18sp"
-            android:layout_alignLeft="@+id/tvWelcome"
             android:layout_below="@+id/tvWelcome"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="20dp"

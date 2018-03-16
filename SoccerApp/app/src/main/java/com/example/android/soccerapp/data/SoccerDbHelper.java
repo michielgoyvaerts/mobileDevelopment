@@ -20,7 +20,12 @@ public class SoccerDbHelper extends SQLiteOpenHelper{
             UserContract.UserEntry.COLUMN_LASTNAME + " TEXT NOT NULL, " +
             UserContract.UserEntry.COLUMN_EMAIL + " TEXT NOT NULL, " +
             UserContract.UserEntry.COLUMN_USERNAME + " TEXT NOT NULL, " +
-            UserContract.UserEntry.COLUMN_PASSWORD + " TEXT NOT NULL" +
+            UserContract.UserEntry.COLUMN_PASSWORD + " TEXT NOT NULL," +
+            UserContract.UserEntry.COLUMN_PHONE + " TEXT NULL," +
+            UserContract.UserEntry.COLUMN_STREET + " TEXT NULL," +
+            UserContract.UserEntry.COLUMN_POSTALCODE + " TEXT NULL," +
+            UserContract.UserEntry.COLUMN_CITY + " TEXT NULL," +
+            UserContract.UserEntry.COLUMN_COUNTRY + " TEXT NULL" +
             ");";
 
     private static final String SQL_CREATE_WEEKSCHEDULE_TABLE = "CREATE TABLE " + WeekScheduleContract.WeekScheduleEntry.TABLE_NAME + " (" +

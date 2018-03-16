@@ -40,7 +40,7 @@ public class WelcomeActivity extends AppCompatActivity {
 
         mName = (TextView) findViewById(R.id.tvName);
         SharedPreferences shared = getSharedPreferences("user", MODE_PRIVATE);
-        String name = (shared.getString("username", ""));
+        String name = (shared.getString("name", ""));
         mName.setText("Welcome " + name);
         //mName.setText("Welcome " + intentStartedThisActivity.getStringExtra(Intent.EXTRA_TEXT));
 

@@ -35,6 +35,9 @@
                 android:value=".WelcomeActivity" />
         </activity>
         <activity
+            android:name=".SettingsActivity">
+        </activity>
+        <activity
             android:name=".StandingsActivity">
             android:parentActivityName=".WelcomeActivity">
             <meta-data
