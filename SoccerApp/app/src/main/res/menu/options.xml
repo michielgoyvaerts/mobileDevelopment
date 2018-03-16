@@ -3,9 +3,9 @@
     <item
         android:id="@+id/action_calendar"
         android:title="@string/calendar"></item>
-    <item
-        android:id="@+id/action_standings"
-        android:title="@string/standings"></item>
+    <!--<item-->
+        <!--android:id="@+id/action_standings"-->
+        <!--android:title="@string/standings"></item>-->
     <item
         android:id="@+id/action_logout"
         android:title="@string/logout"></item>

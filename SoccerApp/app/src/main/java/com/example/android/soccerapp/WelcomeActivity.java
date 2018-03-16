@@ -21,14 +21,14 @@ public class WelcomeActivity extends AppCompatActivity {
     private RecyclerView mCountryList;
     private CountryAdapter mAdapter;
     private CountryContract[] countries = new CountryContract[]{
-        new CountryContract("Belgium", R.drawable.belgium),
-        new CountryContract("England", R.drawable.england),
-        new CountryContract("France", R.drawable.france),
-        new CountryContract("Germany", R.drawable.germany),
-        new CountryContract("Italy", R.drawable.italy),
-        new CountryContract("Netherlands", R.drawable.netherlands),
-        new CountryContract("Portugal", R.drawable.portugal),
-        new CountryContract("Spain", R.drawable.spain)
+            new CountryContract("Belgium"),
+            new CountryContract("England"),
+            new CountryContract("France"),
+            new CountryContract("Germany"),
+            new CountryContract("Italy"),
+            new CountryContract("Netherlands"),
+            new CountryContract("Portugal"),
+            new CountryContract("Spain")
     };
 
     @Override

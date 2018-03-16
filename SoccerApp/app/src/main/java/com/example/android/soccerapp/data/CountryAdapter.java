@@ -47,7 +47,33 @@ public class CountryAdapter extends RecyclerView.Adapter<CountryAdapter.CountryV
     public void onBindViewHolder(CountryViewHolder viewHolder, int position) {
 
         viewHolder.countryName.setText(mCountries[position].getTitle());
-        viewHolder.flag.setImageResource(mCountries[position].getImageUrl());
+        //viewHolder.flag.setImageResource(mCountries[position].getImageUrl());
+        switch(mCountries[position].getTitle()){
+            case "Belgium":
+                viewHolder.flag.setImageResource(R.drawable.belgium);
+                break;
+            case "England":
+                viewHolder.flag.setImageResource(R.drawable.england);
+                break;
+            case "France":
+                viewHolder.flag.setImageResource(R.drawable.france);
+                break;
+            case "Germany":
+                viewHolder.flag.setImageResource(R.drawable.germany);
+                break;
+            case "Italy":
+                viewHolder.flag.setImageResource(R.drawable.italy);
+                break;
+            case "Netherlands":
+                viewHolder.flag.setImageResource(R.drawable.netherlands);
+                break;
+            case "Portugal":
+                viewHolder.flag.setImageResource(R.drawable.portugal);
+                break;
+            case "Spain":
+                viewHolder.flag.setImageResource(R.drawable.spain);
+                break;
+        }
     }
 
     @Override

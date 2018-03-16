@@ -1,52 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradient">
-
-    <TextView
-    android:id="@+id/tvGameweek"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:text="@string/gameweek"
-    android:textColor="#FFF"
-    android:layout_marginTop="20dp"
-    android:layout_marginLeft="20dp"
-    android:textSize="20sp"/>
-
-    <android.support.v7.widget.RecyclerView
-        android:id="@+id/rvWeekschedules"
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/tvGameweek"
-        android:layout_marginLeft="10dp"
-        android:layout_marginTop="10dp"/>
+        android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/tvForecast"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="20dp"
-        android:text="@string/forecast"
-        android:layout_below="@+id/rvWeekschedules"
-        android:textColor="#0EBFE9"
-        android:textSize="20sp"
-        android:layout_marginTop="20dp" />
+        <TextView
+            android:id="@+id/tvGameweek"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gameweek"
+            android:textColor="#FFF"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:textSize="20sp"/>
 
-    <TextView
-        android:id="@+id/tvDescription"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="40dp"
-        android:layout_below="@id/tvForecast"
-        android:textColor="#0EBFE9" />
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rvWeekschedules"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvGameweek"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"/>
 
-    <TextView
-        android:id="@+id/tvTemp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/tvDescription"
-        android:layout_below="@+id/tvDescription"
-        android:textColor="#0EBFE9" />
-</RelativeLayout>
+        <TextView
+            android:id="@+id/tvForecast"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/forecast"
+            android:layout_below="@+id/rvWeekschedules"
+            android:textColor="#0EBFE9"
+            android:textSize="20sp"
+            android:layout_marginTop="20dp" />
+
+        <TextView
+            android:id="@+id/tvDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_below="@id/tvForecast"
+            android:textColor="#0EBFE9" />
+
+        <TextView
+            android:id="@+id/tvTemp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tvDescription"
+            android:layout_below="@+id/tvDescription"
+            android:textColor="#0EBFE9" />
+    </RelativeLayout>
+</ScrollView>

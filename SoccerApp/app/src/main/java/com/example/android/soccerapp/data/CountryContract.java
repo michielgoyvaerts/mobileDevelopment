@@ -8,10 +8,9 @@ public class CountryContract {
     private String title;
     private int imageUrl;
 
-    public CountryContract(String title,int imageUrl){
+    public CountryContract(String title){
 
         this.title = title;
-        this.imageUrl = imageUrl;
     }
 
     public String getTitle() {
