@@ -4,6 +4,7 @@ ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\An
 INJECTED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:2:1-53:12
 INJECTED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:2:1-53:12
 INJECTED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\302ade007d965762b7173c481a38739e\AndroidManifest.xml:17:1-28:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\0935c7ee49786e3eb0ab2430c724426d\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\e98c4c2a20458b888adae759599d7eb5\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\3b2dff354b9d4574ad3e29834f7608f6\AndroidManifest.xml:21:1-31:12
@@ -12,18 +13,18 @@ MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AllPhi\.gradle\ca
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\33b1fa2433170e37bdef1da566758003\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8e23c643ff857183dcaa73442c577286\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\556a11ce496c1e0b3c58a9498d07238a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\b2bd7c88f126652097f31922d7a41ee8\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\8b1d65ccd32f048bb18bcce34755f36b\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\05fff27770f2ff7ea92fb612b919d570\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\1d5cd5357982c52f3630a549f85ea2d9\AndroidManifest.xml:21:1-45:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\14501f4b4bf6b8a7a3ea97d60d3b0fe1\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c3b256bf35e737646467a56f2afcc9a\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\e772ffd72d485a78966c5242aa46c62e\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:customtabs:25.3.1] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\18933541ecbac54043e2159bec1492d4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5835478a5e357a8406f2c2804c99dd81\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5cd8416ba877a47af050e6319204497d\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6007d3796392a7d304a79ff2bd5fb057\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3dd5c574e61709983111303bb8700590\AndroidManifest.xml:17:1-30:12
 INJECTED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:2:1-53:12
@@ -49,6 +50,8 @@ ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\An
 		ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:5:22-64
 application
 ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:7:5-51:19
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\302ade007d965762b7173c481a38739e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\302ade007d965762b7173c481a38739e\AndroidManifest.xml:22:5-26:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\0935c7ee49786e3eb0ab2430c724426d\AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\0935c7ee49786e3eb0ab2430c724426d\AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\e98c4c2a20458b888adae759599d7eb5\AndroidManifest.xml:28:5-29:19
@@ -65,6 +68,8 @@ MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\AllPhi\.gradle\cac
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8e23c643ff857183dcaa73442c577286\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\556a11ce496c1e0b3c58a9498d07238a\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\556a11ce496c1e0b3c58a9498d07238a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:25:5-29:19
 MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\b2bd7c88f126652097f31922d7a41ee8\AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\b2bd7c88f126652097f31922d7a41ee8\AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\8b1d65ccd32f048bb18bcce34755f36b\AndroidManifest.xml:28:5-29:19
@@ -75,20 +80,18 @@ MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\AllPhi\.gradle\
 MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\1d5cd5357982c52f3630a549f85ea2d9\AndroidManifest.xml:28:5-43:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\14501f4b4bf6b8a7a3ea97d60d3b0fe1\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\14501f4b4bf6b8a7a3ea97d60d3b0fe1\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c3b256bf35e737646467a56f2afcc9a\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c3b256bf35e737646467a56f2afcc9a\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\e772ffd72d485a78966c5242aa46c62e\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\e772ffd72d485a78966c5242aa46c62e\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:customtabs:25.3.1] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\18933541ecbac54043e2159bec1492d4\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:customtabs:25.3.1] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\18933541ecbac54043e2159bec1492d4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5835478a5e357a8406f2c2804c99dd81\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5835478a5e357a8406f2c2804c99dd81\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5cd8416ba877a47af050e6319204497d\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5cd8416ba877a47af050e6319204497d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6007d3796392a7d304a79ff2bd5fb057\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6007d3796392a7d304a79ff2bd5fb057\AndroidManifest.xml:25:5-29:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3dd5c574e61709983111303bb8700590\AndroidManifest.xml:24:5-28:19
@@ -127,16 +130,8 @@ ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\An
 		ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:21:27-74
 activity#com.example.android.soccerapp.RegisterActivity
 ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:24:9-30:20
-	android:parentActivityName
-		ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:26:13-55
 	android:name
 		ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:25:13-45
-meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:27:13-29:49
-	android:value
-		ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:29:17-46
-	android:name
-		ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:28:17-63
 activity#com.example.android.soccerapp.WelcomeActivity
 ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:31:9-33:20
 	android:name
@@ -145,6 +140,12 @@ activity#com.example.android.soccerapp.CalendarActivity
 ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:34:9-40:20
 	android:name
 		ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:35:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:37:13-39:52
+	android:value
+		ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:39:17-49
+	android:name
+		ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:38:17-63
 activity#com.example.android.soccerapp.SettingsActivity
 ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml:41:9-43:20
 	android:name
@@ -157,6 +158,8 @@ uses-sdk
 INJECTED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\302ade007d965762b7173c481a38739e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\302ade007d965762b7173c481a38739e\AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\0935c7ee49786e3eb0ab2430c724426d\AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\0935c7ee49786e3eb0ab2430c724426d\AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\e98c4c2a20458b888adae759599d7eb5\AndroidManifest.xml:24:5-26:41
@@ -173,6 +176,8 @@ MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\AllPhi\.gradle\cac
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8e23c643ff857183dcaa73442c577286\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\556a11ce496c1e0b3c58a9498d07238a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\556a11ce496c1e0b3c58a9498d07238a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:21:5-23:54
 MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\b2bd7c88f126652097f31922d7a41ee8\AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\b2bd7c88f126652097f31922d7a41ee8\AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\8b1d65ccd32f048bb18bcce34755f36b\AndroidManifest.xml:24:5-26:41
@@ -183,20 +188,18 @@ MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\AllPhi\.gradle\
 MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\1d5cd5357982c52f3630a549f85ea2d9\AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\14501f4b4bf6b8a7a3ea97d60d3b0fe1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\14501f4b4bf6b8a7a3ea97d60d3b0fe1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c3b256bf35e737646467a56f2afcc9a\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c3b256bf35e737646467a56f2afcc9a\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\e772ffd72d485a78966c5242aa46c62e\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\e772ffd72d485a78966c5242aa46c62e\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:customtabs:25.3.1] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\18933541ecbac54043e2159bec1492d4\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:25.3.1] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\18933541ecbac54043e2159bec1492d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5835478a5e357a8406f2c2804c99dd81\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5835478a5e357a8406f2c2804c99dd81\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5cd8416ba877a47af050e6319204497d\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5cd8416ba877a47af050e6319204497d\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6007d3796392a7d304a79ff2bd5fb057\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6007d3796392a7d304a79ff2bd5fb057\AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3dd5c574e61709983111303bb8700590\AndroidManifest.xml:20:5-22:41
@@ -213,6 +216,34 @@ INJECTED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main
 		INJECTED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\AllPhi\Documents\mobileDevelopment\SoccerApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\302ade007d965762b7173c481a38739e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfff3eea85706b42226423205d39c7f0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfff3eea85706b42226423205d39c7f0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8e23c643ff857183dcaa73442c577286\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8e23c643ff857183dcaa73442c577286\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\556a11ce496c1e0b3c58a9498d07238a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\556a11ce496c1e0b3c58a9498d07238a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\14501f4b4bf6b8a7a3ea97d60d3b0fe1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\14501f4b4bf6b8a7a3ea97d60d3b0fe1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c3b256bf35e737646467a56f2afcc9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c3b256bf35e737646467a56f2afcc9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\e772ffd72d485a78966c5242aa46c62e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\e772ffd72d485a78966c5242aa46c62e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5835478a5e357a8406f2c2804c99dd81\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5835478a5e357a8406f2c2804c99dd81\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5cd8416ba877a47af050e6319204497d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5cd8416ba877a47af050e6319204497d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6007d3796392a7d304a79ff2bd5fb057\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6007d3796392a7d304a79ff2bd5fb057\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:preference-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\302ade007d965762b7173c481a38739e\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:preference-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\preference-v7-26.1.0.aar\302ade007d965762b7173c481a38739e\AndroidManifest.xml:24:13-51
 activity#com.facebook.FacebookActivity
 ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\8478e4469c7583b2cd60e39799886121\AndroidManifest.xml:29:9-32:66
 	android:configChanges
@@ -225,32 +256,6 @@ activity#com.facebook.CustomTabMainActivity
 ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\8478e4469c7583b2cd60e39799886121\AndroidManifest.xml:33:9-71
 	android:name
 		ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\8478e4469c7583b2cd60e39799886121\AndroidManifest.xml:33:19-68
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfff3eea85706b42226423205d39c7f0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8e23c643ff857183dcaa73442c577286\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\8e23c643ff857183dcaa73442c577286\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\556a11ce496c1e0b3c58a9498d07238a\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\556a11ce496c1e0b3c58a9498d07238a\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\14501f4b4bf6b8a7a3ea97d60d3b0fe1\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\14501f4b4bf6b8a7a3ea97d60d3b0fe1\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d46547067709f8446920a309161b8665\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c3b256bf35e737646467a56f2afcc9a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1c3b256bf35e737646467a56f2afcc9a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\e772ffd72d485a78966c5242aa46c62e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\e772ffd72d485a78966c5242aa46c62e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5835478a5e357a8406f2c2804c99dd81\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5835478a5e357a8406f2c2804c99dd81\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5cd8416ba877a47af050e6319204497d\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5cd8416ba877a47af050e6319204497d\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8519dbb0a083ee4f00c1c7905d6073f3\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6007d3796392a7d304a79ff2bd5fb057\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6007d3796392a7d304a79ff2bd5fb057\AndroidManifest.xml:26:9-28:38
-	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfff3eea85706b42226423205d39c7f0\AndroidManifest.xml:28:13-35
-	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfff3eea85706b42226423205d39c7f0\AndroidManifest.xml:27:13-51
 provider#com.facebook.internal.FacebookInitProvider
 ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\AllPhi\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\1d5cd5357982c52f3630a549f85ea2d9\AndroidManifest.xml:39:9-42:40
 	android:authorities

@@ -536,6 +536,10 @@
         "source": "C:\\Users\\MichielGoyvaerts\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cad647b4c77c1cf5a2574a8089bacdf1\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_preference_dropdown.xml.flat",
+        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-26.1.0.aar\\302ade007d965762b7173c481a38739e\\res\\layout-v11\\preference_dropdown.xml"
+    },
+    {
         "merged": "C:\\Users\\AllPhi\\Desktop\\PXL\\Mobile Development\\Workspace\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
         "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\6007d3796392a7d304a79ff2bd5fb057\\res\\drawable\\notification_tile_bg.xml"
     },
@@ -1212,12 +1216,12 @@
         "source": "C:\\Users\\MichielGoyvaerts\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cad647b4c77c1cf5a2574a8089bacdf1\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\AllPhi\\Desktop\\PXL\\Mobile Development\\Workspace\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_country_list_item.xml.flat",
-        "source": "C:\\Users\\AllPhi\\Desktop\\PXL\\Mobile Development\\Workspace\\SoccerApp\\app\\src\\main\\res\\layout\\country_list_item.xml"
-    },
-    {
         "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bfff3eea85706b42226423205d39c7f0\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\AllPhi\\Desktop\\PXL\\Mobile Development\\Workspace\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_country_list_item.xml.flat",
+        "source": "C:\\Users\\AllPhi\\Desktop\\PXL\\Mobile Development\\Workspace\\SoccerApp\\app\\src\\main\\res\\layout\\country_list_item.xml"
     },
     {
         "merged": "C:\\Users\\AllPhi\\Desktop\\PXL\\Mobile Development\\Workspace\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_spain.png.flat",
@@ -2588,12 +2592,12 @@
         "source": "C:\\Users\\MichielGoyvaerts\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\cfaab73ae1705a0fa45f03d6bb47490a\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bfff3eea85706b42226423205d39c7f0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\MichielGoyvaerts\\Desktop\\backup\\MobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\MichielGoyvaerts\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cad647b4c77c1cf5a2574a8089bacdf1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bfff3eea85706b42226423205d39c7f0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\MichielGoyvaerts\\Desktop\\backup\\MobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
@@ -2734,6 +2738,10 @@
     {
         "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bfff3eea85706b42226423205d39c7f0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_dialog_edittext.xml.flat",
+        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-26.1.0.aar\\302ade007d965762b7173c481a38739e\\res\\layout\\preference_dialog_edittext.xml"
     },
     {
         "merged": "C:\\Users\\MichielGoyvaerts\\workspace\\MobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -3098,6 +3106,10 @@
     {
         "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bfff3eea85706b42226423205d39c7f0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_preference.xml.flat",
+        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-26.1.0.aar\\302ade007d965762b7173c481a38739e\\res\\layout-v11\\preference.xml"
     },
     {
         "merged": "C:\\Users\\MichielGoyvaerts\\Desktop\\backup\\MobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
@@ -3956,6 +3968,10 @@
         "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bfff3eea85706b42226423205d39c7f0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_information.xml.flat",
+        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-26.1.0.aar\\302ade007d965762b7173c481a38739e\\res\\layout\\preference_information.xml"
+    },
+    {
         "merged": "C:\\Users\\MichielGoyvaerts\\workspace\\MobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
         "source": "C:\\Users\\MichielGoyvaerts\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cad647b4c77c1cf5a2574a8089bacdf1\\res\\layout\\abc_screen_simple.xml"
     },
@@ -4660,6 +4676,10 @@
         "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bfff3eea85706b42226423205d39c7f0\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_category.xml.flat",
+        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-26.1.0.aar\\302ade007d965762b7173c481a38739e\\res\\layout\\preference_category.xml"
+    },
+    {
         "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_messenger_bubble_large_blue.png.flat",
         "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.28.0.aar\\05fff27770f2ff7ea92fb612b919d570\\res\\drawable-hdpi-v4\\messenger_bubble_large_blue.png"
     },
@@ -4762,6 +4782,10 @@
     {
         "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_widget_seekbar.xml.flat",
+        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-26.1.0.aar\\302ade007d965762b7173c481a38739e\\res\\layout\\preference_widget_seekbar.xml"
     },
     {
         "merged": "C:\\Users\\MichielGoyvaerts\\workspace\\MobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
@@ -5464,6 +5488,10 @@
         "source": "C:\\Users\\MichielGoyvaerts\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\d6e3442ccd6c36bc2217fb2b38fd669e\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
+        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_list_fragment.xml.flat",
+        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-26.1.0.aar\\302ade007d965762b7173c481a38739e\\res\\layout\\preference_list_fragment.xml"
+    },
+    {
         "merged": "C:\\Users\\MichielGoyvaerts\\Desktop\\backup\\MobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\MichielGoyvaerts\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cad647b4c77c1cf5a2574a8089bacdf1\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -5872,6 +5900,10 @@
         "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bfff3eea85706b42226423205d39c7f0\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_recyclerview.xml.flat",
+        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-26.1.0.aar\\302ade007d965762b7173c481a38739e\\res\\layout\\preference_recyclerview.xml"
+    },
+    {
         "merged": "C:\\Users\\MichielGoyvaerts\\workspace\\MobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_notification_media_action.xml.flat",
         "source": "C:\\Users\\MichielGoyvaerts\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\d6e3442ccd6c36bc2217fb2b38fd669e\\res\\layout-v11\\notification_media_action.xml"
     },
@@ -5898,6 +5930,10 @@
     {
         "merged": "C:\\Users\\MichielGoyvaerts\\Desktop\\backup\\MobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\MichielGoyvaerts\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cad647b4c77c1cf5a2574a8089bacdf1\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_widget_switch_compat.xml.flat",
+        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-26.1.0.aar\\302ade007d965762b7173c481a38739e\\res\\layout\\preference_widget_switch_compat.xml"
     },
     {
         "merged": "C:\\Users\\AllPhi\\Desktop\\PXL\\Mobile Development\\Workspace\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -6554,6 +6590,10 @@
     {
         "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
         "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bfff3eea85706b42226423205d39c7f0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_preference_widget_checkbox.xml.flat",
+        "source": "C:\\Users\\AllPhi\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v7-26.1.0.aar\\302ade007d965762b7173c481a38739e\\res\\layout\\preference_widget_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\AllPhi\\Documents\\mobileDevelopment\\SoccerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",

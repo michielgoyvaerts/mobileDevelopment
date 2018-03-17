@@ -37,5 +37,4 @@
     <string name="edit">Edit</string>
     <string name="errorPassword">The password is not correct</string>
     <string name="facebook_app_id">2111834889045691</string>
-    <string name="facebook_login_protocol_scheme">fb2111834889045691</string>
-</resources>
+    <string name="facebook_login_protocol_scheme">fb2111834889045691</string></resources>
